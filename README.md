@@ -12,6 +12,7 @@ Hi! I'm Paola 👋<br>📜 A former Electrical Engineer and now full time Data S
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pvb93&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 💬 Contact me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pvbarrera93) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pvbarrera93)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pvbarrera93@gmail.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
