@@ -13,6 +13,6 @@ Hi! I'm Paola 👋<br>📜 A former Electrical Engineer and now full time Data S
 
 ## 💬 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pvbarrera93)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pvbarrera93@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pvbarrera93@gmail.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
